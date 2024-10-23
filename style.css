@@ -42,6 +42,7 @@ nav ul li a:hover {
     justify-content: center;
     color: white;
     animation: fadeIn 2s ease-in-out;
+
 }
 
 @keyframes fadeIn {
@@ -141,6 +142,11 @@ color:#FCE38A;
 
 h3 {
 color:#CCE490;
+
+}
+
+h1 {
+font-size: large;
 
 }
 
